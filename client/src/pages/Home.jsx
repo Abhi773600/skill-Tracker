@@ -10,7 +10,7 @@ function Home() {
       </p>
 
       <button className="bg-blue-600 px-6 py-3 rounded-xl text-lg hover:bg-blue-700 transition">
-        Get Started 🚀
+        Get Started  hi 🚀
       </button>
     </div>
   );
