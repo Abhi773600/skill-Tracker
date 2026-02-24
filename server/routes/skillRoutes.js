@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
-const Skill = require("../models/Skill");
-const auth = require("../middleware/authMiddleware");
+const Skill = require('../models/Skill');
+const auth = require('../middleware/authMiddleware');
 
 // ==============================
 // ✅ GET ALL SKILLS (User Specific)
